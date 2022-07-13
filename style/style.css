@@ -1,0 +1,39 @@
+header {
+display: block;
+text-align: center;
+background-color: rgba(212, 219, 202, 0.3);
+}
+#firs {
+width: 250px;
+margin-bottom: 0px;
+padding-top: 0px;
+}
+#sec {
+    margin-bottom: 0px;
+}
+h2 {
+background: rgba(212, 219, 202,0.3);
+text-align: center;
+}
+
+table {
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: separate;
+    border: 1px solid purple;
+    background: rgba(212, 219, 202, 0.3);
+}
+
+#info {
+    color: blue;
+}
+
+td {
+    padding-left: 0px;
+}
+
+footer{
+    text-align: center;
+    padding-left: 0px;
+    margin-bottom: 0px;
+}
